@@ -10,7 +10,6 @@ body {
     background-color: ghostwhite;
     height: 100%;
 }
-/*top bar*/
 .head-bar {
     background-color: orange;
     display: flex;
@@ -31,7 +30,6 @@ body {
     padding: 0px 8px;
     font-weight: 700;
 }
-/*main picture*/
 .main-buffet-header-countainer {
     height: 70%;
 }
@@ -58,7 +56,6 @@ body {
     padding: 0px;
 }
 
-/*main body*/
 .main-body {
     display: flex;
     flex-direction: column;
@@ -71,7 +68,6 @@ body {
     flex-direction: column;
 }
 
-/*first and secound white box*/
 .Every-Day-Categories,
 .Where-to-Eat {
     padding: 2% 5%;
@@ -107,7 +103,6 @@ body {
     font-size: 20px;
 }
 
-/*grey box*/
 .Healthy-Recipes-of-the-Week {
     background-color: #DADFEA;
     padding: 0% 5%;
@@ -146,7 +141,6 @@ body {
     font-size: 20px;
 }
 
-/*bottom bar*/
 .bottom-bar {
     display: flex;
     background-color: orange;
@@ -172,7 +166,6 @@ body {
     font-weight: 500;
 }
 
-/* recipe picture*/
 .recipe-buffet-header-countainer {
     height: 70%;
 }
@@ -185,7 +178,6 @@ body {
     height: 100%;
 }
 
-/*Grey instructions*/
 .greyInstructions {
     background-color: #DADFEA;
     margin: 0%;
@@ -223,7 +215,6 @@ body {
 .firstGreyColumn div, .secoundGreyColumn div, .thirdGreyColumn div {
 padding-bottom: 5%;
 }
-/*main body*/
 .mainRecipeBody {
     background-color: ghostwhite;
 display: flex;
@@ -296,7 +287,6 @@ width: 100%;
 ul h4, ol h4 {
     margin-bottom: 0%;
 }
-/*video section*/
 .recipeTutorial{
 display: flex;
 flex-direction: column;
